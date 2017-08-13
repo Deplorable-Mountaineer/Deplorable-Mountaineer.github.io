@@ -1,2 +1,2 @@
-# <blue>Deplorable Mountaineer</blue>   ![Deplorable Mountaineer Logo](tdv-logo-south-branch-valley-small.png)
+# <font color=blue>Deplorable Mountaineer</font>   ![Deplorable Mountaineer Logo](tdv-logo-south-branch-valley-small.png)
 Game Development          
