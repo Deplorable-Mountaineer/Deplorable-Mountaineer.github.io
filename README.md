@@ -2,4 +2,4 @@
 Game Development          
 
 ## Games
-![Robot Dynamite Logo](Robot_Dynamite.png) a first-person sci-fi action shooter
+A first-person sci-fi action shooter ![Robot Dynamite Logo](Robot_Dynamite.png) 
